@@ -104,7 +104,7 @@ X_tr.shape
 
 X_test.shape
 
-y_train = (y_train>30)*1
+y_tr = (y_tr>30)*1
 y_val = (y_val>30)*1
 y_test = (y_test>30)*1
 
